@@ -1,5 +1,5 @@
 # Creating a GUI Quiz Game with Python
-**In Today's Era of interactive learning, A GUI Quiz Game stands as an engaging and educational project. I Emphasis into Python programming to develop a fun and interactive quiz game that poses four general questions to users, awarding them a score out of four based on their correct answers.**
+In Today's Era of interactive learning, A GUI Quiz Game stands as an engaging and educational project. I Emphasis into Python programming to develop a fun and interactive quiz game that poses four general questions to users, awarding them a score out of four based on their correct answers.**
 
 # **1) Project Objective:**
 The primary goal was to craft an intuitive, visually Easiest interface where users could test their knowledge by answering four general questions.
